@@ -1,8 +1,5 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
 
-![image](https://user-images.githubusercontent.com/6764957/87083194-cec5b800-c25e-11ea-85b4-0bebc4374e07.png)
+![image](https://raw.githubusercontent.com/hugovalenciadev/hugovalenciadev/master/HUGOVALENCIA%20(2).png)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
