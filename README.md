@@ -1,5 +1,5 @@
 
-![image](https://raw.githubusercontent.com/hugovalenciadev/hugovalenciadev/master/HUGOVALENCIA.png)
+![image](https://raw.githubusercontent.com/hugovalenciadev/hugovalenciadev/master/HUGOVALENCIA%20(1).png)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
